@@ -41,8 +41,9 @@ These are unedited captures of the application. Device availability and paths re
 
 When a download is approved for distribution, use the repository's **Releases** tab. Binary files belong in release attachments rather than source commits.
 
-- Installer: `InsightScreenRecorder_Setup_1.6.4_x64.exe`.
-- Portable: `InsightScreenRecorder_Win_x64.zip`.
+- 📥 **Installer (.exe):** [Download InsightScreenRecorder_Setup_1.6.4_x64.exe](https://github.com/alarifi/Insight-Screen-Recorder/releases/download/v1.6.4/InsightScreenRecorder_Setup_1.6.4_x64.exe)
+- 📦 **Portable (.zip):** [Download InsightScreenRecorder_Win_x64.zip](https://github.com/alarifi/Insight-Screen-Recorder/releases/download/v1.6.4/InsightScreenRecorder_Win_x64.zip)
+- 📋 **All Releases & Checksums:** [View Release v1.6.4 Assets](https://github.com/alarifi/Insight-Screen-Recorder/releases/tag/v1.6.4)
 - Default installer directory: `C:\Program Files\Insight Tools`.
 - Requires Windows x64 and compatible capture/audio devices. No separate .NET runtime or SDK is needed by end users.
 - Extract the whole portable ZIP, then run `InsightScreenRecorder.exe`. Keep its DLLs and `tools` folder intact.

@@ -30,8 +30,9 @@
 
 بعد اعتماد التنزيل للنشر، تُرفق الملفات في تبويب Releases بالمستودع:
 
-- المثبّت: `InsightScreenRecorder_Setup_1.6.4_x64.exe`.
-- النسخة المحمولة: `InsightScreenRecorder_Win_x64.zip`؛ فكّ الحزمة كاملة ثم شغّل `InsightScreenRecorder.exe`.
+- 📥 **المثبّت المباشر (.exe):** [تحميل InsightScreenRecorder_Setup_1.6.4_x64.exe](https://github.com/alarifi/Insight-Screen-Recorder/releases/download/v1.6.4/InsightScreenRecorder_Setup_1.6.4_x64.exe)
+- 📦 **النسخة المحمولة (.zip):** [تحميل InsightScreenRecorder_Win_x64.zip](https://github.com/alarifi/Insight-Screen-Recorder/releases/download/v1.6.4/InsightScreenRecorder_Win_x64.zip)
+- 📋 **صفحة الإصدار وبصمات التحقق:** [صفحة إصدار v1.6.4 على GitHub](https://github.com/alarifi/Insight-Screen-Recorder/releases/tag/v1.6.4)
 - مسار التثبيت الافتراضي: `C:\Program Files\Insight Tools`.
 - Windows بمعمارية x64؛ لا يحتاج المستخدم إلى SDK أو تثبيت .NET منفصل.
 
