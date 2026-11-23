@@ -1,0 +1,32 @@
+name: Rate your experience
+description: Share an honest rating from 1 to 5 and help improve the recorder.
+title: "[Feedback]: "
+body:
+  - type: markdown
+    attributes:
+      value: "If the app earns 5/5, five-star feedback is appreciated. All honest ratings are welcome. This is separate from GitHub's Star button."
+  - type: dropdown
+    id: rating
+    attributes:
+      label: Your rating
+      options:
+        - "1 / 5"
+        - "2 / 5"
+        - "3 / 5"
+        - "4 / 5"
+        - "5 / 5"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version and Windows version
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: What worked and what should improve?
+      description: Do not include license keys or private recordings.
+    validations:
+      required: true

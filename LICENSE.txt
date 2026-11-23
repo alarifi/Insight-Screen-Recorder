@@ -1,0 +1,57 @@
+INSIGHT SCREEN RECORDER - END USER LICENSE AGREEMENT
+Copyright (c) 2026 INSIGHT Software. All rights reserved.
+
+1. PRODUCT AND LICENSE
+This agreement applies to the proprietary INSIGHT Screen Recorder application.
+INSIGHT Software grants permission to install and use the application for personal
+or professional recording, subject to this agreement. Ownership of the application
+and INSIGHT branding remains with INSIGHT Software. Publishing source code does
+not by itself grant an open-source license to the proprietary application.
+
+2. FEATURES AND ACTIVATION
+The application records a full display or selected area, optionally including system
+audio, microphone input and a camera overlay, and saves screenshots. Available
+features depend on the edition and computer. Free recording supports up to 30 FPS.
+Pro features, including camera overlay and up to 60 FPS, require an active Pro
+license and online verification. Do not bypass activation or share protected keys.
+A license does not guarantee a particular frame rate or recording result.
+
+3. USER CONTENT AND PRIVACY
+Recordings and screenshots are saved to the folders selected by the user. The
+application does not automatically upload recorded content. Pro verification
+communicates with the INSIGHT licensing service. Settings and protected license
+information are stored in the current Windows user's Local AppData folder.
+The user is responsible for obtaining permission to record people, applications,
+audio and copyrighted material, and for protecting and backing up recorded files.
+
+4. THIRD-PARTY SOFTWARE
+FFmpeg, FFprobe and Microsoft .NET components retain their own licenses. Their
+licenses and notices take precedence for those components. Nothing in this
+agreement restricts rights granted by those open-source licenses. See
+THIRD_PARTY_NOTICES.md, LICENSE.txt, ThirdPartyNotices.txt and the license
+information in the tools folder. Redistribution of the tools must satisfy their
+applicable license and corresponding-source requirements.
+
+5. RESTRICTIONS
+Except where applicable law or a component's own license permits otherwise, do
+not remove ownership notices, misrepresent authorship, redistribute the proprietary
+application without permission, or circumvent its license controls. Third-party
+components are excluded from these restrictions where their own licenses grant
+additional rights.
+
+6. WARRANTY AND LIABILITY
+The application is provided AS IS, without guarantees of uninterrupted recording,
+fitness for a particular purpose or recovery of incomplete recordings. Test on the
+target hardware before relying on it for important sessions. To the extent permitted
+by applicable law, INSIGHT Software is not liable for lost recordings, lost data or
+indirect damages resulting from use. Nothing here limits rights or liabilities that
+cannot lawfully be excluded or limited.
+
+7. UNINSTALLATION
+Uninstallation removes installed application files. User recordings, screenshots,
+settings and protected license data are retained. Remove these separately only
+if you intend to discard them.
+
+8. ACCEPTANCE
+Installing or using the proprietary application indicates acceptance of this
+agreement, subject to mandatory rights provided by applicable law.

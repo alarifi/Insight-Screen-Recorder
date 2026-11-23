@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest an improvement with a concrete use case.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What task is difficult today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would make that task easier?
+    validations:
+      required: true

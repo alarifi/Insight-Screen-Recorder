@@ -1,0 +1,22 @@
+# Local history, recordings, diagnostics and credentials must not be published.
+/Archive/
+/Release/
+/output/
+/Build/docs/evidence/
+/Build/PACKAGING-ARCHIVE.txt
+/Build/tools/*.exe
+**/bin/
+**/obj/
+**/.vs/
+**/*.user
+**/*.suo
+*.log
+/.release-staging-*/
+/desktop.ini
+/FolderIcon.ico
+**/licenses_store.json
+**/license*.json
+**/*.pfx
+**/*.key
+**/.env
+*.zip
